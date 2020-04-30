@@ -1,2 +1,5 @@
 # hello-world-azure-devops
-This is the practice exercise for Azure DevOps
+These are the steps for Azure DevOps:
+- Upload the package
+- Create release
+- Deploy release
